@@ -1,0 +1,8 @@
+.place-card__image_is-opened {
+    max-width: 80vw;
+    max-height: 80vh;
+    z-index: 3;
+    width: 3000px;
+    position: fixed;
+
+}
