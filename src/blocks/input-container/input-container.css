@@ -1,9 +1,0 @@
-.input-container {
-    opacity: 1;
-    box-sizing: border-box;
-    margin-bottom: 40px;
-    height: 40px;
-}
-.input-container:last-of-type {
-    margin-bottom:0;
-}
