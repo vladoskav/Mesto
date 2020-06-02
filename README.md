@@ -6,7 +6,7 @@
 В данном проекте использовался данный стэк:
 JS(fetch/promises), HTML(adaptive), CSS.
 ## Ссылка на проект
-[https://vladoskav.github.io/Mesto/ "Mesto"]
+https://vladoskav.github.io/Mesto/ "Mesto"
 ## Build Setup
 
 ```bash
