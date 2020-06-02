@@ -1,7 +1,7 @@
 {
   "name": "mesto",
   "version": "0.0.1",
-  "description": "",
+  "description": "website about places in Russia where you can add photos of places, its names, add or remove likes or edit info about yourself",
   "main": "src/index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production rimraf dist && webpack --mode production",
